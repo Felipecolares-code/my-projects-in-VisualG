@@ -1,26 +1,21 @@
-Algoritmo "¡rea do Tri‚ngulo"
-// 
-//  
-// DescriÁ„o   : Aqui vocÍ descreve o que o programa faz! (Algoritmo que caucula a ·rea de um tri‚ngulo)
-// Autor(a)    : Nome do(a) Felipe colares da silva(a)
-// Data atual  : 01/02/2025
+Algoritmo "√Årea do Tri√¢ngulo"
 Var
-// SeÁ„o de DeclaraÁıes das vari·veis 
+// Se√ß√£o de Declara√ß√µes das vari√°veis 
     a,b:inteiro
     area:real
     r:caractere
 
 Inicio
-// SeÁ„o de Comandos, procedimento, funÁıes, operadores, etc... 
+// Se√ß√£o de Comandos, procedimento, fun√ß√µes, operadores, etc... 
             repita
-               escreval(" Digite as dimensıes do tri‚ngulo ")
+               escreval(" Digite as dimens√µes do tri√¢ngulo ")
                escreval(" Base ")
                leia(b)
                escreval(" Altura ")
                leia(a)
                area<-b*a/2
                limpatela
-               escreval(" A ·rea do tri‚ngulo È ", area)
+               escreval(" A √°rea do tri√¢ngulo √© ", area)
                escreval(" Deseja continuar? S/N ")
                leia(r)
             ate(r="n")ou(r="N")
