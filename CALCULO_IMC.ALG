@@ -1,4 +1,6 @@
 Algoritmo "calculo_imc"
+var
+imc,peso,altura:inteiro
 inicio
    // Entrada de dados
    escreval("Digite o seu nome: ")
