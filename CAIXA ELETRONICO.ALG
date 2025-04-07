@@ -1,11 +1,11 @@
-Algoritmo "Simulador de Caixa Eletrônico"
+Algoritmo "Simulador de Caixa EletrÃ´nico"
 //
 //
-// Descrição   : Simulador de caixa eletrônico
-// Autor(a)    : Felipe Colares da silva
+// DescriÃ§Ã£o   : Simulador de caixa eletrÃ´nico
+// Autor(a)    : Felipe 
 // Data atual  : 10/02/2025
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    op,not,total,yep:inteiro
 procedimento top()
 inicio
@@ -35,7 +35,7 @@ inicio
    escreval("    Obrigado por usar o    \n")
    escreval("     nosso programa!     \n")
    escreval("******************************\n")
-   escreval("    Até a próxima!       \n")
+   escreval("    AtÃ© a prÃ³xima!       \n")
    escreval("******************************\n")
 
 
@@ -44,7 +44,7 @@ fimprocedimento
 
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 
    escreval(" Escolha o valor que deseja sacar : ")
    escreval(" 10 R$ ")
