@@ -1,18 +1,13 @@
-Algoritmo "semnome"
-// 
-//  
-// Descrição   : Aqui você descreve o que o programa faz! (Algoritmo que caucula a média de notas de alunos)
-// Autor(a)    : Felipe colares da silva
-// Data atual  : 29/01/2025
+Algoritmo "mÃ©dia de alunos"
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 nome:vetor[1..4] de caractere
 n1:vetor[1..4] de inteiro
 n2:vetor[1..4] de inteiro
 media:vetor[1..4] de real
 c:inteiro
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
            para c<-1 ate 4 faca
                 escreval(" Digite o nome do aluno ")
                 leia(nome[c])
